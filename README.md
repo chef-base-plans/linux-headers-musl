@@ -4,6 +4,8 @@
 
 Linux kernel headers (sanitized for use with musl)
 
+## Maintainers
+
 * The Core Planners: <chef-core-planners@chef.io>
 
 ## Type of Package
@@ -33,13 +35,13 @@ To install this plan, you should run the following commands to install it.
 `hab pkg install core/linux-headers-musl`
 
 > » Installing core/linux-headers-musl
->
+
 > ☁ Determining latest version of core/linux-headers-musl in the 'stable' channel
->
+
 > ☛ Verifying core/linux-headers-musl/3.12.6-6/20200306011251
->
+
 > ✓ Installed core/linux-headers-musl/3.12.6-6/20200306011251
->
+
 > ★ Install of core/linux-headers-musl/3.12.6-6/20200306011251 complete with 1 new packages installed.
 
 #### Viewing library files
